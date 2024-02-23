@@ -7,6 +7,7 @@
 <a href="https://www.linkedin.com/in/zeroforazone/"><img src="svg/Social/linkedin.svg" style="vertical-align:top margin:6px 4px"></a>
 <a href="https://t.me/zeroforazone"><img src="svg/Social/telegram.svg" style="vertical-align:top margin:6px 4px"></a>
 <a href="https://leetcode.com/zeroforazone_dev/"><img src="svg/Social/leetcode.svg" style="vertical-align:top margin:6px 4px"></a>
+<a href="https://www.reddit.com/user/zeroforazone"><img src="svg/Social/reddit.svg" style="vertical-align:top margin:6px 4px"></a>
 
 ### My technology stack:
 #### Frameworks:
